@@ -1,0 +1,30 @@
+
+*************MODEL*****************
+Cloud computing has revolutionized the way businesses manage their IT infrastructure and applications.
+Amazon Web Services (AWS), one of the leading cloud service providers, offers a range of service models that cater to diverse business needs.
+
+Infrastructure-as-a-Service (IaaS) with AWS
+Platform-as-a-Service (PaaS) with AWS
+Software-as-a-Service (SaaS) with AWS
+Infrastructure-as-a-Service (IaaS) is the foundational service model offered by AWS.
+
+****************IASS**************
+Infrastructure-as-a-Service (IaaS) is the foundational service model offered by AWS.
+With IaaS, businesses can access virtualized computing resources, including virtual machines (EC2 instances), storage (S3, EBS)
+and networking (VPC). Key features of AWS IaaS include
+
+************PAAS**************
+Platform-as-a-Service (PaaS) is a cloud computing service model that provides a platform and environment for developers to build, deploy, 
+and manage applications without the need to worry about the underlying infrastructure. In PaaS, the cloud provider manages the infrastructure components, 
+such as servers, storage, and networking, allowing developers to focus on application development and deployment.
+
+***************SAAS***********
+SaaS is a cloud computing model where the cloud provider offers ready-to-use software applications over the Internet. With SaaS, 
+users can access and use software applications without the need to install, manage, or maintain the underlying infrastructure or software. 
+The cloud provider handles everything, including infrastructure, software updates, and security. 
+Users typically pay for SaaS applications on a subscription or usage basis. example like Google Workspace and Microsoft 365, Slack and Zoom.
+
+**********CONCLUSION*************
+AWS offers a comprehensive suite of cloud computing service models, including Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS), 
+and Software-as-a-Service (SaaS). Each service model provides distinct features and benefits, 
+empowering businesses to choose the most suitable option based on their requirements.
