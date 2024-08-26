@@ -1,0 +1,19 @@
+
+*********************Availability Zone**************************
+Each availability zone is essentially a separate data center facility with its own power, cooling, and networking infrastructure.
+These availability zones are designed to be physically and logically separate from each other to ensure fault tolerance and high availability.
+
+*****************Edge Locaction*****************************
+AWS Edge locations are an important part of the AWS global infrastructure that helps improve the performance and availability of websites and applications for users all around the world
+When you access a website or application hosted on AWS, your requests are usually directed to the nearest AWS Edge location. These Edge locations act as a cache or temporary storage for frequently accessed content
+
+The main benefits of AWS Edge locations are
+  Improved Performance
+  Enhanced Availability
+  Global Content Delivery
+
+
+  In simple terms, AWS Edge locations are like mini data centers strategically placed around the world to deliver content and services faster to users. 
+They help improve performance, increase availability, and enable global content delivery for websites and applications hosted on AWS.
+
+
