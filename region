@@ -1,0 +1,9 @@
+In AWS (Amazon Web Services), a region refers to a specific geographic area where AWS data centers are located. 
+Each region is a separate and isolated geographic area with multiple data centers called Availability Zones
+
+An AWS region is like a specific area or location where Amazon Web Services (AWS) has its data centers
+Each region is like a separate zone that contains multiple data centers. These regions are spread across the world in different countries and cities
+
+The purpose of having multiple regions is to make it easier for AWS customers to use their services
+By selecting the region closest to their location, customers can ensure faster performance and lower latency
+if one region has an issue or outage, services and data can be quickly and seamlessly transferred to another region
