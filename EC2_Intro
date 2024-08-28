@@ -1,0 +1,16 @@
+**************EC2*******************
+EC2 stand for elastic cloud and compute
+An AWS EC2 instance is a virtual server in the cloud that you can rent from Amazon Web Services (AWS) to run your applications and workloads
+It provides you with computing resources such as CPU (processing power), memory, storage, and networking capabilities
+
+When you launch an EC2 instance, you can choose the instance type that suits your needs Each instance type has different specifications, 
+such as the amount of CPU, memory, and storage it offers. You can select the instance type that matches the requirements of your application or workload.
+
+EC2 instances are commonly used for a wide range of purposes, such as hosting websites and web applications, running backend services,
+performing data processing and analytics, and supporting development and testing environments.
+
+EC2 instances are highly flexible. You can easily scale them up or down based on demand. If your application needs more resources to handle increased traffic, 
+you can add more instances. Similarly, if the demand decreases, you can reduce the number of instances to save costs.
+
+In summary, an AWS EC2 instance is a virtual server in the cloud that provides you with computing resources to run your applications. It offers flexibility, scalability, 
+and remote accessibility, making it a fundamental component of cloud-based infrastructure
