@@ -1,1 +1,10 @@
+IAM stand for (identity access management)
+which is used for an creating user and give policy to that user 
+if we create an IAM user this user should be visible on all the resion
+step for create IMA user 
+1 search for IAM service in search bar 
+2 go in user section 
+3 click to create user 
+4 
+
 
